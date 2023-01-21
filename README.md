@@ -11,7 +11,7 @@ https://medium.com/@rodrigoka4/programando-em-python-e-transformando-o-mundo-de-
 
 ## How it works
 
-Pendencias para Api Minecraft
+Issues for Minecraft API
 ### Windows
 
 ```
@@ -25,9 +25,9 @@ sudo pip3 install mcpi
 ```
 
 
-Usamos o spingot com alguns plugins para realizar a comunicação.
-Ja estamos com tudo previamente configurado, apenas faltando rodar 
-o servidor em mine_server_1.19.3/spigot-1.19.3.jar
+We use spingot with some plugins to carry out the communication. 
+We already have everything previously configured, just missing 
+to run the server in mine_server_1.19.3/spigot-1.19.3.jar
 
 ``java -jar spigot-1.19.3.jar``
 
@@ -43,6 +43,31 @@ https://github.com/martinohanlon/mcpi
 https://www.stuffaboutcode.com/p/minecraft-api-reference.html
 
 
+```python
+#sets a block at an x, y, z co-ordinate to a particular type
+mc.setBlock(0,0,0,block.DIRT.id)
+#sets a block to a particular type and 'subtype'
+mc.setblock(0,0,0,block.WOOD.id, 1)
+
+#get the entity id of a name player 'nameuser'
+entityId = mc.getPlayerEntityId("nameuser")
+print(entityId)
+
+#write 'Hello Minecraft World' to the chat window
+mc.postToChat("Hello Minecraft World")
+
+#set the players position as floats
+mc.player.setPos(0.0,0.0,0.0)
+```
+
+
+### Minecraft.entity
+The entity functions are used in conjunction with the .getPlayerEntityIds() 
+function to interact with the entity (or players) in a game. 
+Entity functions are useful for multiplayer games. 
+[check more here](https://www.stuffaboutcode.com/p/minecraft-api-reference.html)
+
+### IDS bloks
 ```
 AIR                 = Block(0)
 STONE               = Block(1)

@@ -23,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2023-01-21 16:25:23 -0300"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_sand": "2023-01-21 16:31:18 -0300"
@@ -32,12 +38,6 @@
   "minecraft:recipes/building_blocks/acacia_planks": {
     "criteria": {
       "has_log": "2023-01-21 16:43:42 -0300"
-    },
-    "done": true
-  },
-  "minecraft:recipes/transportation/dark_oak_boat": {
-    "criteria": {
-      "in_water": "2023-01-21 16:25:23 -0300"
     },
     "done": true
   },
@@ -74,15 +74,15 @@
     },
     "done": false
   },
-  "minecraft:recipes/misc/charcoal": {
-    "criteria": {
-      "has_log": "2023-01-21 16:43:42 -0300"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/sandstone": {
     "criteria": {
       "has_sand": "2023-01-21 16:31:18 -0300"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/charcoal": {
+    "criteria": {
+      "has_log": "2023-01-21 16:43:42 -0300"
     },
     "done": true
   },
