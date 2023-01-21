@@ -1,5 +1,5 @@
 # python_transforming_minecraft
-
+21/01/2023
 Within the python operations we are going to modify a minecraft server with a little help from the pythonToMine api
 
 
@@ -10,6 +10,21 @@ https://medium.com/@rodrigoka4/programando-em-python-e-transformando-o-mundo-de-
 
 
 ## How it works
+
+Pendencias para Api Minecraft
+### Windows
+
+```
+pip3 install mcpi
+```
+
+### Linux / MacOS
+
+```bash
+sudo pip3 install mcpi
+```
+
+
 Usamos o spingot com alguns plugins para realizar a comunicação.
 Ja estamos com tudo previamente configurado, apenas faltando rodar 
 o servidor em mine_server_1.19.3/spigot-1.19.3.jar
@@ -17,6 +32,7 @@ o servidor em mine_server_1.19.3/spigot-1.19.3.jar
 ``java -jar spigot-1.19.3.jar``
 
 Com o servidor rodando pode executar seus comandos
+
 ``python index.py ``
 
 
