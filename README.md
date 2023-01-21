@@ -9,9 +9,15 @@ Within the python operations we are going to modify a minecraft server with a li
 https://medium.com/@rodrigoka4/programando-em-python-e-transformando-o-mundo-de-minecraft-a-sua-maneira-3d94a275faec
 
 
-## Como funciona
-inicialmente execute o BuildTools.jar dentro da pasta server em Minecraft Tools
-``java -jar BuildTools.jar``
+## How it works
+Usamos o spingot com alguns plugins para realizar a comunicação.
+Ja estamos com tudo previamente configurado, apenas faltando rodar 
+o servidor em mine_server_1.19.3/spigot-1.19.3.jar
+
+``java -jar spigot-1.19.3.jar``
+
+Com o servidor rodando pode executar seus comandos
+``python index.py ``
 
 
 ## Using
@@ -21,7 +27,7 @@ https://github.com/martinohanlon/mcpi
 https://www.stuffaboutcode.com/p/minecraft-api-reference.html
 
 
-``
+```
 AIR                 = Block(0)
 STONE               = Block(1)
 GRASS               = Block(2)
@@ -93,4 +99,5 @@ GLASS_PANE          = Block(102)
 MELON               = Block(103)
 FENCE_GATE          = Block(107)
 GLOWING_OBSIDIAN    = Block(246)
-NETHER_REACTOR_CORE = Block(247)``
+NETHER_REACTOR_CORE = Block(247)
+```
