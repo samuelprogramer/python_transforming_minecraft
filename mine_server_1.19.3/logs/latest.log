@@ -1,0 +1,50 @@
+[15:17:51] [ServerMain/INFO]: Building unoptimized datafixer
+[15:17:52] [ServerMain/INFO]: Environment: authHost='https://authserver.mojang.com', accountsHost='https://api.mojang.com', sessionHost='https://sessionserver.mojang.com', servicesHost='https://api.minecraftservices.com', name='PROD'
+[15:17:53] [ServerMain/INFO]: Loaded 7 recipes
+[15:17:54] [ServerMain/INFO]: Loaded 1179 advancements
+[15:17:54] [Server thread/INFO]: Starting minecraft server version 1.19.3
+[15:17:54] [Server thread/INFO]: Loading properties
+[15:17:54] [Server thread/INFO]: Default game type: SURVIVAL
+[15:17:54] [Server thread/INFO]: Generating keypair
+[15:17:54] [Server thread/INFO]: Starting Minecraft server on *:25565
+[15:17:54] [Server thread/INFO]: Using epoll channel type
+[15:17:54] [Server thread/INFO]: Preparing level "world"
+[15:17:58] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[15:17:58] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[15:17:58] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[15:17:59] [Worker-Main-9/INFO]: Preparing spawn area: 0%
+[15:17:59] [Worker-Main-8/INFO]: Preparing spawn area: 0%
+[15:18:00] [Worker-Main-8/INFO]: Preparing spawn area: 1%
+[15:18:00] [Worker-Main-4/INFO]: Preparing spawn area: 1%
+[15:18:01] [Worker-Main-11/INFO]: Preparing spawn area: 3%
+[15:18:01] [Worker-Main-6/INFO]: Preparing spawn area: 5%
+[15:18:02] [Worker-Main-6/INFO]: Preparing spawn area: 7%
+[15:18:02] [Worker-Main-1/INFO]: Preparing spawn area: 9%
+[15:18:03] [Worker-Main-5/INFO]: Preparing spawn area: 11%
+[15:18:03] [Worker-Main-3/INFO]: Preparing spawn area: 14%
+[15:18:04] [Worker-Main-10/INFO]: Preparing spawn area: 16%
+[15:18:04] [Worker-Main-1/INFO]: Preparing spawn area: 18%
+[15:18:05] [Worker-Main-11/INFO]: Preparing spawn area: 23%
+[15:18:05] [Worker-Main-3/INFO]: Preparing spawn area: 25%
+[15:18:06] [Worker-Main-1/INFO]: Preparing spawn area: 28%
+[15:18:06] [Worker-Main-4/INFO]: Preparing spawn area: 32%
+[15:18:07] [Worker-Main-6/INFO]: Preparing spawn area: 34%
+[15:18:07] [Worker-Main-7/INFO]: Preparing spawn area: 38%
+[15:18:08] [Worker-Main-11/INFO]: Preparing spawn area: 42%
+[15:18:08] [Worker-Main-10/INFO]: Preparing spawn area: 44%
+[15:18:09] [Worker-Main-2/INFO]: Preparing spawn area: 48%
+[15:18:09] [Worker-Main-5/INFO]: Preparing spawn area: 52%
+[15:18:10] [Worker-Main-7/INFO]: Preparing spawn area: 55%
+[15:18:10] [Worker-Main-3/INFO]: Preparing spawn area: 57%
+[15:18:11] [Worker-Main-10/INFO]: Preparing spawn area: 62%
+[15:18:11] [Worker-Main-5/INFO]: Preparing spawn area: 67%
+[15:18:12] [Worker-Main-6/INFO]: Preparing spawn area: 70%
+[15:18:12] [Worker-Main-2/INFO]: Preparing spawn area: 73%
+[15:18:13] [Worker-Main-8/INFO]: Preparing spawn area: 76%
+[15:18:13] [Worker-Main-5/INFO]: Preparing spawn area: 81%
+[15:18:14] [Worker-Main-1/INFO]: Preparing spawn area: 84%
+[15:18:14] [Worker-Main-7/INFO]: Preparing spawn area: 87%
+[15:18:15] [Worker-Main-7/INFO]: Preparing spawn area: 91%
+[15:18:15] [Worker-Main-6/INFO]: Preparing spawn area: 95%
+[15:18:15] [Server thread/INFO]: Time elapsed: 17862 ms
+[15:18:15] [Server thread/INFO]: Done (20.987s)! For help, type "help"
