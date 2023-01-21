@@ -187,3 +187,24 @@
 [16:08:31] [Server thread/INFO]: Chiseledbook joined the game
 [16:08:32] [Server thread/INFO]: Chiseledbook[/127.0.0.1:56906] logged in with entity id 329 at ([world]2.13712780003377, 73.0, 48.06988958297578)
 [16:09:01] [Server thread/INFO]: Made Chiseledbook a server operator
+[16:13:17] [Server thread/INFO]: Chiseledbook issued server command: /tp 0 0 0
+[16:13:17] [Server thread/INFO]: [Chiseledbook: Teleported Chiseledbook to 0.500000, 0.000000, 0.500000]
+[16:13:17] [Server thread/WARN]: Chiseledbook moved too quickly! -1.489192624264943,-73.0,-48.482771845462054
+[16:13:22] [Server thread/INFO]: Chiseledbook issued server command: /gamemode 0
+[16:13:25] [Server thread/INFO]: Chiseledbook issued server command: /gamemode 1
+[16:13:29] [Server thread/INFO]: Chiseledbook suffocated in a wall
+[16:13:33] [Server thread/INFO]: Chiseledbook issued server command: /gamemode creative
+[16:13:33] [Server thread/INFO]: [Chiseledbook: Set own game mode to Creative Mode]
+[16:13:55] [Server thread/INFO]: Stopping the server
+[16:13:55] [Server thread/INFO]: Stopping server
+[16:13:55] [Server thread/INFO]: Saving players
+[16:13:55] [Server thread/INFO]: Chiseledbook lost connection: Server closed
+[16:13:55] [Server thread/INFO]: Chiseledbook left the game.
+[16:13:55] [Server thread/INFO]: Saving worlds
+[16:13:57] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[16:14:01] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_nether]'/minecraft:the_nether
+[16:14:02] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world_the_end]'/minecraft:the_end
+[16:14:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[16:14:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[16:14:02] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[16:14:02] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
